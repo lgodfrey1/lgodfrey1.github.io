@@ -1,4 +1,4 @@
-# Welcome to Logan Godfrey's GitHub Page
+![logan-godfrey-lgodfreycfsncorg-cf_0434_2023-3-11dsc_1354](https://github.com/lgodfrey1/lgodfrey1.github.io/assets/143239580/34e61649-2413-439c-83d5-7ae1e267a70f)
 
 ## About Me
 
