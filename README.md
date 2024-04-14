@@ -1,8 +1,13 @@
-<img src="https://github.com/lgodfrey1/lgodfrey1.github.io/assets/143239580/34e61649-2413-439c-83d5-7ae1e267a70f" alt="Profile Picture" width="150" style="height: auto; border-radius: 50%;">
+<div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden;">
+
+  <!-- Set your profile picture as the background image -->
+  <div style="width: 100%; height: 100%; background-image: url('https://github.com/lgodfrey1/lgodfrey1.github.io/assets/143239580/34e61649-2413-439c-83d5-7ae1e267a70f'); background-size: cover; background-position: center;"></div>
+
+</div>
 
 ## About Me
 
-Hey there! I'm Logan Godfrey, a passionate Statistical Sciences and Economics student at Duke University. I have a particular affinity for sports and policy.
+I'm Logan Godfrey, a Statistical Sciences and Economics student at Duke University. I have particular interests in the areas of sports and policy.
 
 ## Projects
 
