@@ -1,6 +1,5 @@
 <div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden;">
 
-  <!-- Set your profile picture as the background image -->
   <div style="width: 100%; height: 100%; background-image: url('https://github.com/lgodfrey1/lgodfrey1.github.io/assets/143239580/34e61649-2413-439c-83d5-7ae1e267a70f'); background-size: cover; background-position: center;"></div>
 
 </div>
