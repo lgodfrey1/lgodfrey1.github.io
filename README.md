@@ -13,8 +13,8 @@ I'm Logan Godfrey, a Statistical Sciences and Economics student at Duke Universi
 
 ### NBA Clutch Player Ranking Project
 - **Description:** Creating models to rank clutch years by NBA players. Created Shiny application and second metric used to create clutch variable.
-- **GitHub Repo:** [https://github.com/matthewodonnell21/DSAC_Basketball_Proj_S24](link)
+- **GitHub Repo:** [NBA Clutch Player Ranking Project](https://github.com/matthewodonnell21/DSAC_Basketball_Proj_S24)
 
 ## Contact Me
 
-You can reach out to me via email at [logan.godfrey@duke.edu](link).
+You can reach out to me via email at [logan.godfrey@duke.edu](mailto:logan.godfrey@duke.edu).
