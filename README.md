@@ -12,4 +12,4 @@ Hey there! I'm Logan Godfrey, a passionate Statistical Sciences and Economics st
 
 ## Contact Me
 
-You can reach out to me via email at [logan.godfrey@duke.edu].
+You can reach out to me via email at [logan.godfrey@duke.edu](link).
