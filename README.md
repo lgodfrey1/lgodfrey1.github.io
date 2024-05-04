@@ -1,21 +1,43 @@
-<div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden;">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Logan Godfrey</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Logan Godfrey</h1>
+    <nav>
+      <ul>
+        <li><a href="#about">About Me</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
 
-  <div style="width: 100%; height: 100%; background-image: url('https://github.com/lgodfrey1/lgodfrey1.github.io/assets/143239580/34e61649-2413-439c-83d5-7ae1e267a70f'); background-size: cover; background-position: center;"></div>
+  <main>
+    <section id="about">
+      <h2>About Me</h2>
+      <p>I'm Logan Godfrey, a Statistical Sciences and Economics student at Duke University. I have particular interests in the areas of sports and policy.</p>
+    </section>
 
-</div>
+    <section id="projects">
+      <h2>Projects</h2>
+      <div class="project">
+        <h3>NBA Clutch Player Ranking Project</h3>
+        <p>Description: Creating models to rank clutch years by NBA players. Created Shiny application and second metric used to create clutch variable.</p>
+        <a href="https://github.com/matthewodonnell21/DSAC_Basketball_Proj_S24">GitHub Repo</a>
+      </div>
+    </section>
 
-## About Me
-
-I'm Logan Godfrey, a Statistical Sciences and Economics student at Duke University. I have particular interests in the areas of sports and policy.
-
-## Projects
-
-### NBA Clutch Player Ranking Project
-- **Description:** Creating models to rank clutch years by NBA players. Created Shiny application and second metric used to create clutch variable.
-- **GitHub Repo:** [NBA Clutch Player Ranking Project](https://github.com/matthewodonnell21/DSAC_Basketball_Proj_S24)
-
-## Contact Me
-
-You can reach out to me via email at [logan.godfrey@duke.edu](mailto:logan.godfrey@duke.edu).
-
-You can connect with me on LinkedIn at: [Logan Godfrey](https://www.linkedin.com/in/logan-godfrey-649121276/)
+    <section id="contact">
+      <h2>Contact Me</h2>
+      <p>You can reach out to me via email at <a href="mailto:logan.godfrey@duke.edu">logan.godfrey@duke.edu</a>.</p>
+      <p>Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/logan-godfrey-649121276/">Logan Godfrey</a></p>
+    </section>
+  </main>
+</body>
+</html>
