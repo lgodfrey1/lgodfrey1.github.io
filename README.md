@@ -18,4 +18,4 @@ I'm Logan Godfrey, a Statistical Sciences and Economics student at Duke Universi
 
 You can reach out to me via email at [logan.godfrey@duke.edu](mailto:logan.godfrey@duke.edu).
 
-You can connect with me on LinkedIn at: [Logan Godfrey]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/logan-godfrey-649121276/))
+You can connect with me on LinkedIn at: [Logan Godfrey](https://www.linkedin.com/in/logan-godfrey-649121276/)
